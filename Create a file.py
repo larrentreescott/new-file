@@ -1,6 +1,5 @@
 #Scott Larrentree    
 
-import json
 import os
 
 print("Where do you want to save your file? : ")
